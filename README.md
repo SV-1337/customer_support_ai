@@ -1,4 +1,4 @@
-This is a project for Headstarter Fellowship Week 2.
+This is a project for Headstarter Fellowship Week 3.
 It uses a Gemini AI API to make a simple AI support bot, in the context of hotel management.
 Live Link: customer-support-ai-red.vercel.app
 
