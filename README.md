@@ -1,3 +1,7 @@
+This is a project for Headstarter Fellowship Week 2.
+It uses a Gemini AI API to make a simple AI support bot, in the context of hotel management.
+Live Link: customer-support-ai-red.vercel.app
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
